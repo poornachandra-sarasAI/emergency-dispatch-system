@@ -1,0 +1,16 @@
+incident_id,location_id,emergency_type,severity_level,description
+INC1,L1,Medical,High,Heart attack reported at Connaught Place
+INC2,L9,Medical,Medium,Injury reported at Sarojini Nagar Market
+INC3,L15,Medical,Low,Dehydration case at Lodhi Garden
+INC4,L11,Medical,Medium,Road accident injuries at Rajouri Garden
+INC5,L4,Fire,High,Fire near India Gate circle
+INC6,L10,Fire,Medium,Shop fire reported in Lajpat Nagar Market
+INC7,L20,Fire,High,Residential building fire in Mayur Vihar
+INC8,L12,Fire,Low,Electrical fire near Akshardham
+INC9,L7,Medical,Medium,Fall injury at Qutub Minar
+INC10,L8,Medical,Low,Minor injury at Lotus Temple
+INC11,L5,Fire,Medium,Small fire on railway platform
+INC12,L6,Medical,Medium,Passenger emergency at Nizamuddin Station
+INC13,L13,Medical,High,Medical emergency at Dwarka Sector 21 Metro
+INC14,L14,Fire,Low,Vehicle fire near Dhaula Kuan
+INC15,L3,Medical,High,Critical emergency at Safdarjung Hospital entry

@@ -1,0 +1,12 @@
+location_id,facility_type,name,capacity_level
+L2,Hospital,AIIMS Emergency,High
+L3,Hospital,Safdarjung Trauma Centre,High
+L5,Hospital,Railway Station Medical Unit,Low
+L17,Hospital,IGI Airport Medical Unit,Low
+L9,FireStation,Sarojini Nagar Fire Station,Medium
+L10,FireStation,Lajpat Nagar Fire Station,Medium
+L11,FireStation,Rajouri Garden Fire Station,Medium
+L12,FireStation,Akshardham Fire Station,Medium
+L14,FireStation,Dhaula Kuan Fire Station,High
+L20,FireStation,Mayur Vihar Fire Station,Medium
+L7,FireStation,Qutub Fire Safety Point,Low

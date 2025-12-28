@@ -1,0 +1,21 @@
+id,name,latitude,longitude,category
+L1,Connaught Place,28.6315,77.2167,Market
+L2,AIIMS Delhi,28.5662,77.21,Hospital
+L3,Safdarjung Hospital,28.5677,77.2109,Hospital
+L4,India Gate,28.6129,77.2295,Tourist
+L5,New Delhi Railway Station,28.643,77.2194,Transport
+L6,Hazrat Nizamuddin Station,28.5883,77.243,Transport
+L7,Qutub Minar,28.5244,77.1855,Tourist
+L8,Lotus Temple,28.5536,77.2588,Tourist
+L9,Sarojini Nagar Market,28.5758,77.199,Market
+L10,Lajpat Nagar Market,28.5677,77.2433,Market
+L11,Rajouri Garden Market,28.6435,77.1167,Market
+L12,Akshardham Temple,28.6127,77.2773,Tourist
+L13,Dwarka Sector 21 Metro,28.5545,77.046,Transport
+L14,Dhaula Kuan,28.595,77.162,Transport
+L15,Lodhi Garden,28.5933,77.2197,Park
+L16,Deer Park,28.5545,77.1924,Park
+L17,IGI Airport T3,28.5562,77.1,Transport
+L18,Parliament House,28.6172,77.2089,Government
+L19,Select Citywalk Mall,28.5288,77.2193,Market
+L20,Mayur Vihar Phase 1,28.6045,77.3015,Residential
